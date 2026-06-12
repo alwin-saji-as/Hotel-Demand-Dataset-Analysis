@@ -169,7 +169,13 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook notebooks/hotel_booking_analysis.ipynb
 ```
 
+### 📖 Alternative Method
+
+1. Open `notebooks/hotel_booking_analysis.ipynb` using Jupyter Notebook or VS Code
+2. Run the notebook cells step by step to view data cleaning, analysis, and visualisations
+3. Modify the code to explore additional insights if needed
 ---
+
 
 ## 📧 Contact
 
