@@ -57,7 +57,7 @@ Hotel-Demand-Dataset-Analysis/
 
 ---
 
-## 🔍 Project Scope
+## 🔍 Steps Followed
 
 ### 1. Data Loading & Initial Overview
 - Loaded dataset using Pandas
@@ -101,6 +101,23 @@ Hotel-Demand-Dataset-Analysis/
 
 ---
 
+## 📊 All Visualisations
+
+| # | Title | Type |
+|---|---|---|
+| 1 | Overall Cancellation Rate | Bar Chart |
+| 2 | Distribution of Average Daily Rate (ADR) | Histogram |
+| 3 | Distribution of Lead Time | Histogram |
+| 4 | Total Bookings by Hotel Type | Count Plot |
+| 5 | Cancellation Rate by Hotel Type | Bar Chart |
+| 6 | ADR Distribution by Hotel Type | Box Plot |
+| 7 | Cancellation Rate by Market Segment | Horizontal Bar Chart |
+| 8 | Average ADR by Season | Bar Chart |
+| 9 | Monthly Booking Trend | Line Chart |
+| 10 | Average ADR by Hotel Type and Season | Grouped Bar Chart |
+| 11 | Cancellation Rate by Hotel Type and Deposit Type | Heatmap |
+| 12 | Correlation Heatmap of Numerical Variables | Heatmap |
+
 ## 💡 Key Insights
 
 1. **27.49% cancellation rate** — more than one in four bookings never resulted in a stay
@@ -110,6 +127,12 @@ Hotel-Demand-Dataset-Analysis/
 5. **Non-refundable deposit paradox** — Non Refund bookings show cancellation rates above 97% for City Hotel
 
 ---
+
+## ✅ Conclusion
+
+This project demonstrates how Python libraries such as Pandas, Matplotlib, and Seaborn can be used for real-world hospitality data analysis. Starting from a raw dataset with missing values, duplicates, and inconsistent data types, the analysis pipeline produced clean, structured data that revealed meaningful patterns in hotel booking behaviour.
+
+The insights gained — particularly around cancellation drivers, seasonal pricing, and booking channel risk — have direct practical value for hotel revenue management. The analysis shows that data-driven decision making can help hotels reduce cancellation rates, optimise pricing strategies, and improve overall occupancy and revenue performance.
 
 ## 🛠️ Tools & Libraries
 
