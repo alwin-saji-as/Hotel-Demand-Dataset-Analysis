@@ -91,13 +91,13 @@ Hotel-Demand-Dataset-Analysis/
 ## 📈 Sample Visualisations
 
 ### Distribution of Average Daily Rate (ADR)
-![ADR Distribution](visuals/2.%20Distribution%20of%20Average%20Daily%20Rate%20(ADR).png)
+![ADR Distribution](Visuals/2.%20Distribution%20of%20Average%20Daily%20Rate%20(ADR).png)
 
 ### ADR Distribution by Hotel Type
-![ADR by Hotel Type](visuals/6.%20ADR%20Distribution%20by%20Hotel%20Type.png)
+![ADR by Hotel Type](Visuals/6.%20ADR%20Distribution%20by%20Hotel%20Type.png)
 
 ### Correlation Heatmap of Numerical Variables
-![Correlation Heatmap](visuals/12.%20Correlation%20Heatmap%20of%20Numerical%20Variables.png)
+![Correlation Heatmap](Visuals/12.%20Correlation%20Heatmap%20of%20Numerical%20Variables.png)
 
 ---
 
