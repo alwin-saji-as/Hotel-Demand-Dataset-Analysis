@@ -20,19 +20,19 @@ Hotel-Demand-Dataset-Analysis/
 
 │
 
-├── data/
+├── Data/
 
 │   └── hotels.csv
 
 │
 
-├── notebooks/
+├── Notebook/
 
 │   └── hotel_booking_analysis.ipynb
 
 │
 
-├── visuals/
+├── Visuals/
 
 │   └── (12 chart images)
 
